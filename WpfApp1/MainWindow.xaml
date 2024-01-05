@@ -7,12 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-<<<<<<< HEAD
         <Grid>
             <TextBlock>123</TextBlock>
         </Grid>
-=======
         <TextBlock x:Name="TB"></TextBlock>
->>>>>>> d3f9f90 (commit change)
     </Grid>
 </Window>
