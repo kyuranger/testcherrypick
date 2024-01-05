@@ -11,5 +11,6 @@
             <TextBlock>123</TextBlock>
         </Grid>
         <TextBlock x:Name="TB"></TextBlock>
+        <TextBlock>456</TextBlock>
     </Grid>
 </Window>
